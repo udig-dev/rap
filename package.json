@@ -1,0 +1,53 @@
+{
+  "name": "rap",
+  "version": "0.5.0",
+  "description": "JavaScript common design pattern interfaces, and abstract classes.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udig-dev/rap.git"
+  },
+  "keywords": [
+    "javascript",
+    "rap",
+    "js",
+    "flow",
+    "flow-types",
+    "interfaces",
+    "abstract",
+    "class",
+    "classes",
+    "design",
+    "patterns",
+    "adapter",
+    "builder",
+    "factory",
+    "dao",
+    "repository",
+    "object",
+    "oriented",
+    "oop",
+    "pattern",
+    "udig",
+    "common",
+    "easy",
+    "fun"
+  ],
+  "author": "UDig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udig-dev/rap/issues"
+  },
+  "homepage": "https://github.com/udig-dev/rap#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "flow-bin": "^0.75.0",
+    "webpack-cli": "^3.0.8"
+  }
+}
