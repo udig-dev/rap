@@ -4,7 +4,8 @@
   "description": "JavaScript common design pattern interfaces, and abstract classes.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "flow": "flow"
   },
   "repository": {
     "type": "git",

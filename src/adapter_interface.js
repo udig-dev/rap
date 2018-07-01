@@ -3,7 +3,7 @@
 /**
  * Interface for adapting adaptee to adapted type.
  */
-interface iAdapter<Adaptee, Adapted> {
+export interface iAdapter<Adaptee, Adapted> {
 
   /**
    * Adapt item to type Adapted.
