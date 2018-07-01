@@ -1,6 +1,5 @@
 // @flow
 import { iAdapter } from '../adapter_interface';
-import { it, expect } from 'jest';
 
 class StringToJsonAdapter implements iAdapter<string, Object> {
 
